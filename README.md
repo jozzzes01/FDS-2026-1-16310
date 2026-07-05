@@ -12,10 +12,10 @@ Aplicar la metodología **CRISP-DM** para analizar las tendencias de los videos 
 
 ## Integrantes
 
-- [Nombre 1] — Business Project Sponsor
-- [Nombre 2] — Data Engineer
-- [Nombre 3] — Data Analyst
-- [Nombre 4] — Data Scientist
+- Jose Antonio Chavez Rivera — Business Project Sponsor
+- Jose Antonio Chavez Rivera — Data Engineer
+- Alonso Gabriel Enrique Barreda Moreno — Data Analyst
+- Trujillo Villa, Wilder Fabritzzio  — Data Scientist
 
 ## Descripción del conjunto de datos
 
